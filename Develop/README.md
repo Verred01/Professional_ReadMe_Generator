@@ -1,7 +1,7 @@
-# 1
+# Professional ReadMe Generator
 
 ## Description
-2
+This is a ReadMe Generator used to easily generate professional ReadMe's for an applications. You can choose from 3 licenses MIT, Eclispe, and GNU GPL v3
 
 ## Table of Contents
 - [Installation](#installation)
@@ -11,16 +11,16 @@
 - [License](#license)
 
 ## Installation
-3
+None
 
 ## Usage
-4
+Anyone can use
 
 ## Contributing
-5
+Anyone can contribute
 
 ## Tests
-6
+None
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
